@@ -18,6 +18,8 @@ This project is licensed under the MIT license.
 
 ## Description
 
+An e-commerce platform that uses Redux to manage global state.
+
 ## Tests
 
 undefined
