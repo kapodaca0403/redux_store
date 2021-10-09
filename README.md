@@ -20,6 +20,11 @@ This project is licensed under the MIT license.
 
 An e-commerce platform that uses Redux to manage global state.
 
+Heroku: https://katerz-redux.herokuapp.com/
+
+<img width="1268" alt="redux" src="https://user-images.githubusercontent.com/87509827/136673095-8ade3940-61df-4a4e-8610-1abf2499b684.PNG">
+
+
 ## Tests
 
 undefined
